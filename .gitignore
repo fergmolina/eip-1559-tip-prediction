@@ -2,3 +2,7 @@
 .ipynb_checkpoints
 *.csv
 .DS_Store
+!chain-dataset-BSC.csv
+!chain-dataset-Ethereum.csv
+!chain-dataset-Polygon.csv
+!fear_and_greed_index.csv
